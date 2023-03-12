@@ -12,6 +12,8 @@ def drawLine(x1,x2,y1,y2, board):  # 1,1 2,1 / 1,1 1,2
     else:
         print("Wrong input")
 
+def controlSquare():
+    print("Square")
 
 
 
